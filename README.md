@@ -1,4 +1,4 @@
-<h2>Challenge Memoire</h2>
+<h2>Challenge Memoire C++</h2>
 
 Ce programme  teste le nombre maximum de paramètres qu'une fonction peut accepter avant de provoquer une erreur de mémoire. Il utilise un vecteur dynamique pour créer des ensembles de paramètres de taille croissante, puis les passe à une fonction de test. Le but est d'identifier à quel point la mémoire peut être allouée avant d'atteindre les limites du système, en particulier les erreurs liées à l'allocation dynamique de mémoire.
 
@@ -10,6 +10,8 @@ Pendant l'exécution du programme,on observe que  :
 <h3>Screenshots :</h3>
 
 <h5>Incrémentation avec une variable de type <b>Integer</b></h5>
+
 ![screenshot](challenge(int).png)
 <h5>Incrémentation avec une variable de type <b>Unsigned Long Long</b></h5>
+
 ![screenshot](challenge(longlong).png)
