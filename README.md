@@ -6,3 +6,5 @@ Pendant l'exécution du programme,on observe que  :
 
 - Au fur et à mesure que i augmente, le programme alloue de plus en plus de mémoire pour stocker les vecteurs dans la variable params. À un certain moment, la mémoire disponible sur le système sera insuffisante pour continuer l'allocation, ce qui déclenchera une exception <b>bad_alloc</b>.
 - Avant d'atteindre une erreur mémoire, on remarque des ralentissements significatifs, surtout lorsque la taille du vecteur devient <b>extrêmement grande</b>.
+
+<img href="challenge(int).png"></img>
